@@ -1,0 +1,89 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-23 13:31:08
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-01-24 23:20:34
+*/
+*{
+	text-decoration: none;
+}
+.big_box{
+	width: 195px;
+	height: 390px;
+	border-radius: 25px;
+	border: 3px solid #F7D5B9;
+	background: white;
+	margin: 0 auto;
+}
+.pingmu{
+	width: 184px;
+	height: 322px;
+	background: black;
+	border-radius: 3px;
+	margin: 0 auto;
+	float: left;
+	margin-bottom: 40px;
+	margin-top: 28px;
+	margin-left: 5.5px;
+	margin-right: 5.5px;
+}
+.xiaoyuan{
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background: black;
+	float: left;
+	position: absolute;
+	margin-bottom: 371px;
+	margin-top: 13px;
+	margin-left: 66px;
+	margin-right: 123px;
+
+}
+.changtiao{
+	width: 30px;
+	height: 5px;
+	border-radius: 2px;
+	background: black;
+	float: left;
+	position: absolute;
+	margin-bottom: 372px;
+	margin-top: 14px;
+	margin-left: 82px;
+	margin-right: 83px;
+
+}
+.dayuan{
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: black;
+	float: left;
+	position: absolute;
+	margin-bottom: 370px;
+	margin-top: 12px;
+	margin-left: 126px;
+	margin-right: 61px;
+
+}
+.honor{
+	width: 40px;
+	height: 10px;
+	background: white;
+	margin: 0 auto;
+	float: left;
+	position: absolute;
+	margin-bottom: 20px;
+	margin-top: 360px;
+	margin-left: 77.5px;
+	margin-right: 77.5px;
+	font-size: 15px;
+	text-align: center;
+	
+}
+a{
+	width: 100px;
+	height: 100px;
+	background: white;
+	/* display: block; */
+}

@@ -1,0 +1,110 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-24 13:38:17
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-01-24 23:20:19
+*/
+*{
+	text-decoration: none;
+}
+.big_box{
+	width: 195px;
+	height: 390px;
+	border-radius: 25px;
+	border: 3px solid #F7D5B9;
+	background: #F7D5B9;
+	margin: 0 auto;
+}
+.body{
+    width: 195px;
+    height: 348px;
+    background: #FDE2C5;
+	margin: 0 auto;
+	float: left;
+	margin-bottom: 21px;
+	margin-top: 21px;
+}
+.datuoyuan{
+	width: 38px;
+	height: 63px;
+	background: #FFE8C6;
+	border: 2px solid #F7D5B9;
+	border-radius: 20px;
+	float: left;
+	margin-bottom: 280px;
+	margin-top: 5px;
+	margin-left: 78px;
+	margin-right: 78px;
+}
+.shexiangtou1{
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	background: black;
+	float: left;
+	position: absolute;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.shexiangtou2{
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	background: black;
+	float: left;
+	position: absolute;
+	margin-bottom: 10px;
+	margin-top: 37px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.zhiwen{
+	width: 29px;
+	height: 29px;
+	border-radius: 50%;
+	background: #FFF1D9;
+	border: 2px solid #F7D5B9;
+	float: left;
+	position: absolute;
+	margin-bottom: 244px;
+	margin-top: 73px;
+	margin-left: 82px;
+	margin-right: 82px;
+}
+.shoudian{
+	width: 11px;
+	height: 11px;
+	border-radius: 50%;
+	background: white;
+	border: 1px solid #F7D5B9;
+	float: left;
+	position: absolute;
+	margin-bottom: 320px;
+	margin-top: 17px;
+	margin-left: 125px;
+	margin-right: 58px;
+
+}
+.zi{
+	width: 40px;
+	height: 10px;
+	background: #FFEBD0;
+	margin: 0 auto;
+	float: left;
+	position: absolute;
+	margin-bottom: 48px;
+	margin-top: 292px;
+	margin-left: 77.5px;
+	margin-right: 77.5px;
+	font-size: 15px;
+	text-align: center;
+}
+a{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	/* display: block; */
+}
